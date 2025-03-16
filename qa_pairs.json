@@ -1,0 +1,42 @@
+[
+    {
+        "question": "How old are you?",
+        "answer": "I am 25 years old.  \n"
+    },
+    {
+        "question": "What is your highest level of education?",
+        "answer": "My highest level of education is a Master of Science, which I am expecting to complete in May 2026.  \n\n"
+    },
+    {
+        "question": "What major or field of study did you pursue during your education?",
+        "answer": "My major is Data Science and Artificial Intelligence. I'm expecting to graduate with my Master of Science in May 2026.  \n"
+    },
+    {
+        "question": "How many years of work experience do you have?",
+        "answer": "I have over 4 years of work experience.  \n"
+    },
+    {
+        "question": "What type of work or industry have you been involved in?",
+        "answer": "I've been involved in a variety of work and industries!  \n\nMy experience spans:\n\n* **EduTech:** Developing chatbots and dashboards for educational purposes.\n* **IT Services:** Providing technical support and troubleshooting.\n* **Software Development:**  Building Odoo apps for local businesses and working on full-stack development projects.\n* **Cloud Computing:**  Gaining experience with platforms like OpenStack and working on cloud-based solutions.\n* **AI/ML:**  Applying my knowledge of data science and artificial intelligence in projects and contests.\n* **WordPress Development:**  Focusing on website migration, troubleshooting, and system configurations. \n\n\nLet me know if you'd like to know more about a specific area! \n\n"
+    },
+    {
+        "question": "Can you describe your current role or job responsibilities?",
+        "answer": "As a Freelance Technical Support Student Assistant at intERLab, a part of the Asian Institute of Technology, my main focus is on WordPress migration.  \n\nThis means I help organizations smoothly transfer their websites to WordPress, ensuring everything works correctly after the switch. I also troubleshoot any technical issues they might encounter and assist with setting up their WordPress sites for optimal performance. \n\n\n\n"
+    },
+    {
+        "question": "What are your core beliefs regarding the role of technology in shaping society?",
+        "answer": "I believe technology should be a force for good in society.  \n\nMy core belief is that technology should enhance accessibility, education, and opportunities for everyone while being developed and used ethically and responsibly. I think it's important to consider the cultural impact of technology and make sure it's inclusive and fair for all. \n"
+    },
+    {
+        "question": "How do you think cultural values should influence technological advancements?",
+        "answer": "That's a great question! I believe cultural values are incredibly important to consider when developing new technologies.  \n\nWe need to make sure technology is inclusive and fair for everyone, which means taking into account the diverse beliefs, customs, and perspectives of different cultures.  \n\nFor example, language is a huge part of culture, and technology should be designed to be accessible in as many languages as possible.  \n\nSimilarly,  cultural norms around privacy and data sharing can vary widely, so technology should be developed with these differences in mind. \n\nBy respecting and incorporating cultural values, we can create technology that truly benefits all of humanity. \n"
+    },
+    {
+        "question": "As a master’s student, what is the most challenging aspect of your studies so far?",
+        "answer": "That's a great question!  As a master's student, I'd say the most challenging aspect is definitely managing all the deadlines.  Balancing coursework with my part-time work can be tough, and sometimes it feels like there just aren't enough hours in the day!  \n\nI'm learning to prioritize and be really efficient with my time, though.  \n\n"
+    },
+    {
+        "question": "What specific research interests or academic goals do you hope to achieve during your time as a master's student?",
+        "answer": "My research interests center around Natural Language Processing (NLP), AI ethics, and computational efficiency in machine translation and big data analysis.  I'm particularly interested in exploring how we can develop AI systems that are not only accurate but also fair and inclusive, taking into account the diverse cultural contexts in which they will be used. \n\nI also want to investigate ways to make machine translation and big data analysis more computationally efficient, especially for resource-constrained environments. \n\n"
+    }
+]
