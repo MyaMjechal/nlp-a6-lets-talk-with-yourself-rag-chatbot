@@ -1,0 +1,84 @@
+Mya Mjechal
+Full Stack Developer
+
+Pathum Thani, Thailand
+myamjechal.mj@gmail.com
+
+Birthday: September 16, 1999
+
+I am a skilled developer with expertise in developing chatbots and dashboards, with additional skills in Natural Language Understanding (NLU) and Natural Language Processing (NLP) at EduTech Social Enterprise. I have experience as a freelancer, developing Odoo apps for local businesses, and a background in Software Development Management at Bliss Stock Co., Ltd. I am knowledgeable in Cluster Computing, Cloud Computing, Virtualization, Big Data Analysis, Networking, Web Programming, Blockchain, and IoT. I participated in the Huawei Cloud & AI contest, gaining experience in Data Mining, Image Processing, Data Prediction, and Cloud Usage. I implemented technologies in class projects, including OpenStack, Hyper-V Failover Clustering, Student Online Result System, and a Restaurant Guide Website. I have strong leadership and relationship-building skills, gained through interaction with ASEAN leaders and participants.
+
+PERSONAL INFORMATION
+Address: Pathum Thani, Thailand
+Nationality: Burmese
+Driving License: No
+Hobbies: Reading, watching movies and series, coding, singing and listening to music
+
+LANGUAGES
+Burmese - Native
+English - Fluent
+Japanese - N3
+Thai - Beginner
+
+SKILLS
+Self-motivation, Decision Making, Fast Learner, Problem Solving, Critical Thinking, Teamwork, Customer Service, Adaptability, Computer Skills, Leadership Skills, Communication Skills, Effective Time Management, Attention to Detail, Ability to Work in a Team, Ability to Work Under Pressure, Microsoft Office, Python, Odoo, JavaScript, HTML & CSS, Bootstrap, Java, PHP, Wordpress, Git, Linux, Docker, Node.js, SQL, MySQL, PostgreSQL, Figma & Adobe XD
+
+WORK EXPERIENCE
+
+January 2025 – Present
+Technical Support | intERLab (Asian Institute of Technology)
+As a Freelance Technical Support Student Assistant at intERLab, AIT, I work on WordPress migration, ensuring smooth website transfers and functionality. I troubleshoot technical issues, assist with system configurations, and improve website performance.
+
+January 2024 – December 2024
+Senior Associate Full Stack Developer | EduTech Social Enterprise, Yangon
+I developed a versatile chatbot and an LMS dashboard for internal and external users. I set up a staging server for testing and provided IT support, mentoring junior team members.
+
+June 2022 – December 2023
+Computer Programmer | EduTech Social Enterprise, Yangon
+I built a chatbot and LMS dashboard, provided IT support, and shared knowledge with peers.
+
+September 2020 – March 2022
+Junior Software Engineer | Bliss Stock Co., Ltd, Japan
+I maintained a WordPress job application site, developed an educational website, and researched Google Speech-to-Text API integration.
+
+EDUCATION
+Asian Institute of Technology (AIT), Pathum Thani
+Master of Science in Data Science and Artificial Intelligence (Expected May 2025)
+University of Information Technology, Yangon
+B.C.Sc (High Performance Computing), Graduated 2020
+KMD Institute, Yangon
+NCC Level 4 Diploma in Computing, Graduated 2018
+
+INTERNSHIPS
+
+June 2020 – August 2020
+Junior Software Engineer | Bliss Stock Co., Ltd.
+Developed an e-commerce mobile app with Flutter, Firebase, and Algolia.
+
+ACTIVITIES
+
+Committee Member (Gender and Culture Committee of AIT Student Union), January 2025 – Present
+
+Volunteer Project Coordinator (Career Readiness Program), Yangon, January 2023 – July 2023
+
+ADDITIONAL INFORMATION
+
+Age: 25 years old (as of 2025)
+
+Highest Level of Education: Master of Science (Expected May 2025)
+
+Major: Data Science and Artificial Intelligence
+
+Work Experience: Over 4 years in software development, full-stack development, and technical support
+
+Industries: EduTech, IT Services, Software Development, Cloud Computing, AI/ML, and WordPress development
+
+Current Role: Freelance Technical Support at intERLab, focusing on WordPress migration, troubleshooting, and system configurations
+
+Core Beliefs on Technology: Technology should enhance accessibility, education, and opportunities while being ethically and culturally responsible.
+
+Cultural Values in Technology: Cultural values should be respected and incorporated into technological advancements to ensure inclusivity and fairness.
+
+Challenges in Master’s Studies: Managing multiple deadlines, balancing coursework with part-time work, and handling computational limitations.
+
+Research Interests and Academic Goals: NLP, AI ethics, and computational efficiency in machine translation and big data analysis.

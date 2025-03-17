@@ -1,5 +1,6 @@
 # ingore data directory
-data/
+data/MyaMjechal-CV-v1.txt
+data/MyaMjechal-CV-v2.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
