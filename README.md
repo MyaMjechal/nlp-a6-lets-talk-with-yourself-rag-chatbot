@@ -70,9 +70,8 @@ The chatbot is capable of answering accurate results beyond the predefined 10 qu
 
 #### 2. Analysis of Issues Related to Models Providing Unrelated Information
 - **Retriever Issues (`all-MiniLM-L6-v2` with FAISS):**  
-  - Occasionally retrieved irrelevant or overly broad chunks from my CV due to its general-purpose semantic embeddings. For example, asking "What skills do you have?" might pull sections like hobbies (e.g., "reading, watching movies") instead of technical skills (e.g., "Python, JavaScript"), as the embeddings prioritize broad similarity over precise context.  
-  - **Cause:** The model’s lightweight design excels in efficiency but may lack the fine-tuned specificity needed for small, personal datasets like my CV.  
-  - **Mitigation:** Future improvements could involve adjusting chunk size or fine-tuning the retriever on my specific data, though this wasn’t feasible due to time and resource constraints.  
+  - No significant issues were observed with the retriever. It consistently retrieved relevant chunks from my CV for the supported questions (e.g., asking "What skills do you have?" accurately pulled sections listing technical skills like "Python, JavaScript").
+  - **Observation:** The lightweight design of `all-MiniLM-L6-v2` proved efficient and effective for my small dataset, delivering precise context for the generator. Its general-purpose embeddings worked well without requiring fine-tuning, likely due to the clear structure of my CV. 
 
 - **Generator Issues (`gemma2-9b-it`):**  
   - **Date-Related Issue:** Due to the prompt specifying "The current year is 2025, and all answers should reflect this year unless otherwise specified," the generator forced all dates to align with 2025, leading to inaccuracies. For example:  
@@ -120,7 +119,6 @@ The chatbot is capable of answering accurate results beyond the predefined 10 qu
       "question": "What is your highest level of education?",
       "answer": "My highest level of education will be a Master of Science in Data Science and Artificial Intelligence, expected in May 2025 from the Asian Institute of Technology."
     },
-    ...
   ]
   ```
 
@@ -140,7 +138,7 @@ The chatbot is capable of answering accurate results beyond the predefined 10 qu
      ```bash
      pip install -r requirements.txt
      ```  
-   - Create `.env` file and put GROQ_API_KEY
+   - Create `.env` file and put `GROQ_API_KEY`
      ```bash
      GROQ_API_KEY='API_KEY'
      ```
