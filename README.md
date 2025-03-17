@@ -75,9 +75,9 @@ The chatbot is capable of answering accurate results beyond the predefined 10 qu
 
 - **Generator Issues (`gemma2-9b-it`):**  
   - **Date-Related Issue:** Due to the prompt specifying "The current year is 2025, and all answers should reflect this year unless otherwise specified," the generator forced all dates to align with 2025, leading to inaccuracies. For example:  
-    - My birth year (1999) was correctly reflected as "25 years old in 2025," but education milestones (e.g., "Will graduate on May 2026") were incorrectly shifted or interpreted as 2025-related, distorting my timeline.  
-  - **Cause:** The strict 2025 constraint in the prompt overrode the actual dates in my CV, and `gemma2-9b-it` prioritized the prompt’s instruction over the retrieved data’s factual accuracy.  
-  - **Mitigation:**  
+    - My birth year (1999) should be "26 years old in 2025," but based on full birth date "25 years old in 2025 as of now is acceptable but education milestones (e.g., "I will graduate on May 2026") were incorrectly shifted or interpreted as 2025-related, distorting my timeline.
+  - **Cause:** The strict 2025 constraint in the prompt overrode the actual dates in my CV, and `gemma2-9b-it` prioritized the prompt’s instruction over the retrieved data’s factual accuracy.
+  - **Mitigation:**
     - Refined the prompt to clarify that only the current context (e.g., age, current role) should reflect 2025, while historical dates should remain as in the CV. However, this adjustment was limited by the model’s tendency to overgeneralize based on the prompt.  
     - A more robust solution (not implemented due to resource limits) would involve preprocessing the CV to tag dates explicitly or fine-tuning the generator to distinguish between current and historical data.
 
