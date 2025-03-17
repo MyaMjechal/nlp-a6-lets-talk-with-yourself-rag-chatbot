@@ -1,0 +1,9 @@
+Flask
+torch
+langchain
+langchain-community
+langchain_groq
+faiss-cpu
+transformers
+sentence-transformers
+python-dotenv
